@@ -7,8 +7,22 @@
     Navegue até o diretório raiz do projeto (onde está o arquivo docker-compose.yml):
 ```
 
-    ```
+    ```bash
     cd /caminho/para/seu/projeto
+    ```
+
+    ```bash
+    cd /caminho/para/seu/projeto
+    ```
+
+    ```js
+    const x = "Block code snippet in JS";
+    console.log(x);
+    ```
+
+    ```js
+    const x = "Block code snippet in JS";
+    console.log(x);
     ```
 
 ## Build e Inicialização dos Containers
