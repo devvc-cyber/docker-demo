@@ -1,0 +1,13 @@
+{
+    "name": "node-app",
+    "version": "1.0.0",
+    "description": "Aplicação simples em Node.js com Express",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
